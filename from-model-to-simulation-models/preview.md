@@ -1,5 +1,7 @@
 # From model to simulation models
 
+Diagram showing a classification hierarchy going progressively from the term *model* to various types of *simulation models*.
+
 ## Full diagram
 
 ![](from-model-to-simulation-models_full.png)
@@ -18,7 +20,7 @@ Angourakis, A. (2023). Andros-Spica/CAA-Angourakis-2023: Simulation in the age o
 
 ## Related references
 
-
+Angourakis, A. (2023). El lugar de la simulación social en arqueología. Vegueta: Anuario de la Facultad de Geografía e Historia, 23(1), 15–55. https://doi.org/10.51349/veg.2023.1.02
 
 ## Icon assets attribution
 
