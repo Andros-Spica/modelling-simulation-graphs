@@ -6,7 +6,8 @@ Open source diagrams and info-graphics about various aspects characterising math
 
 List of graphs and their versions:
 - [**_From model to simulation models_**](from-model-to-simulation-models/preview.md). 
-- [**_Simulation and Machine Learning: potential combinations_**](simulation-and-ml/preview.md). 
+- [**_Simulation and Machine Learning: potential combinations_**](simulation-and-ml/preview.md).  
+- [**_Representation and validation of simulation models in archaeology_**](representation-and-validation/preview.md).  
 
 ## Disclaimer
 
