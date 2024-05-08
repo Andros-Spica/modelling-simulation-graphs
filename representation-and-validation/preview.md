@@ -1,14 +1,14 @@
 # Representation and validation of simulation models in archaeology
 
-Diagram showing the (potential) epistemological role of simulation modelling in archaeological research. Highlighted are the aspects of representation (how models are linked to a target reality) and validation (how to assure that the model dynamics, or simulated data, is compatible with the available empirical data). A second derivative diagram shows how the epistemological connections change whenever descriptive mathematical modelling are used instead of mechanistic ones.
+Diagrams showing the (potential) epistemological role of simulation modelling in archaeological research. Highlighted are the aspects of representation (what are the aspects considered essential to the target reality) and validation (how to ensure that the model generates patterns that are compatible with the available empirical data). A second derivative diagram is presented to show the epistemological differences of using descriptive mathematical modelling instead of explanatory mathematical modelling, such as simulation.
 
-![](representation-and-validation.png)
+![Epistemology with simulation](representation-and-validation.png)
 
-![](representation-and-validation_notSimulation.png)
+![Epistemology with descriptive mathematical modelling](representation-and-validation_notSimulation.png)
 
 ## Used in
 
-
+Andreas Angourakis. (2024). Andros-Spica/Newcastle-Angourakis-2024: From pattern, through process, to mechanism. An introduction to simulation in archaeology (v1.0). Zenodo. https://doi.org/10.5281/zenodo.11145840
 
 ## Related references
 
